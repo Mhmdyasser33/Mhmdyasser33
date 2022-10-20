@@ -1,12 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm mohamed yaaser</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img  align="right" alt ="coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdyasser33&label=Profile%20views&color=0e75b6&style=flat" alt="mhmdyasser33" /> </p>
-
-<p align="left"> <a href="https://twitter.com/mohamedyasser" target="blank"><img src="https://img.shields.io/twitter/follow/mohamedyasser?logo=twitter&style=for-the-badge" alt="mohamedyasser" /></a> </p>
 
 - 🌱 I’m currently learning **React js**
 
@@ -18,8 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mohamedyasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamedyasser" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed-yasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-yasser" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed yasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed yasser" height="30" width="40" /></a>
 <a href="https://fb.com/mohamed yasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed yasser" height="30" width="40" /></a>
 <a href="https://instagram.com/hamoelhakem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamoelhakem" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mohamed-yasser33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamed-yasser33" height="30" width="40" /></a>
@@ -34,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmdyasser33&show_icons=true&locale=en" alt="mhmdyasser33" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdyasser33&" alt="mhmdyasser33" /></p>
-
