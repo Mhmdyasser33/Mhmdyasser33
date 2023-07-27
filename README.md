@@ -9,15 +9,14 @@
 
 - 💬 Ask me about **javaScript**
 
-- 📫 How to reach me **my1326545@gmail.com**
+- 📫 How to reach me **muhmmed.yasserxi@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed yasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed yasser" height="30" width="40" /></a>
-<a href="https://fb.com/mohamed yasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed yasser" height="30" width="40" /></a>
-<a href="https://instagram.com/hamoelhakem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamoelhakem" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/mohamed yasser](https://www.linkedin.com/in/mohamed-yasser-31872821b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed yasser" height="30" width="40" /></a>
+<a href="[https://fb.com/mohamed yasser](https://www.facebook.com/hamoalhakem)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed yasser" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mohamed-yasser33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamed-yasser33" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mohamed yasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamed yasser" height="30" width="40" /></a>
 </p>
